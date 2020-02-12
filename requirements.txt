@@ -1,0 +1,3 @@
+scrython==1.7.0
+pyyaml==5.1.2
+colorama==0.4.1
